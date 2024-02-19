@@ -39,52 +39,7 @@ Memento
 Repository Structure
 The repository is structured as follows:
 
-perl
-Copy code
-design-patterns/
-│
-├── creational/
-│   ├── singleton/
-│   ├── factory-method/
-│   ├── abstract-factory/
-│   ├── builder/
-│   └── prototype/
-│
-├── structural/
-│   ├── adapter/
-│   ├── bridge/
-│   ├── composite/
-│   ├── decorator/
-│   ├── facade/
-│   ├── flyweight/
-│   └── proxy/
-│
-└── behavioral/
-    ├── observer/
-    ├── strategy/
-    ├── command/
-    ├── template-method/
-    ├── iterator/
-    ├── state/
-    ├── chain-of-responsibility/
-    ├── visitor/
-    ├── mediator/
-    └── memento/
-Each design pattern has its own directory containing implementations in various programming languages.
 
-How to Use
-Clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/design-patterns.git
-Navigate to the directory of the design pattern you are interested in.
-
-Choose the programming language you prefer and explore the implementation.
-
-Study the code, understand the problem it solves, and how it implements the design pattern.
-
-Feel free to modify and experiment with the code to deepen your understanding.
 
 Contribution
 Contributions to this repository are welcome. If you have implemented a design pattern example in a programming language not yet covered or have improvements to existing examples, feel free to submit a pull request.
