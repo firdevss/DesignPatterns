@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
     </modules>
   </component>
