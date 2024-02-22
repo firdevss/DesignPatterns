@@ -6,14 +6,15 @@
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Builder/Builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ChainResponsibility/ChainResponsibility.iml" filepath="$PROJECT_DIR$/ChainResponsibility/ChainResponsibility.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/ChainResponsibility/ChainResponsibility.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/ChainResponsibility/ChainResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/Command/Command.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalPatterns/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/StructuralPatterns/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalPatterns/Singleton/Singleton.iml" />
