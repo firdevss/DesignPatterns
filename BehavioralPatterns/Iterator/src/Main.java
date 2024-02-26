@@ -8,7 +8,6 @@ public class Main {
         aggregate.addItem(1);
         aggregate.addItem(2);
         aggregate.addItem(3);
-
         // Create an iterator for the aggregate
         Iterator<Integer> iterator = aggregate.createIterator();
 
